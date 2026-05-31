@@ -1,64 +1,49 @@
 <div align="center">
 
-<img src="./logo-full.png" alt="matsohms IT" width="360" />
+<img src="./logo_full.png" alt="matsohms IT" width="320" />
 
 <br /><br />
 
-**All-in-One IT-Partner aus Berlin**
+### Technologie, die funktioniert.
 
-*Managed Cloud-Infrastruktur · Softwareentwicklung · Webdesign · IT-Betreuung*
+Von Managed Infrastructure über Software-Entwicklung bis hin zu eigenen Produkten.<br/>
+Wir verbinden moderne Softwareentwicklung und sichere Serverinfrastruktur mit persönlicher Betreuung.
 
-[![Website](https://img.shields.io/badge/Website-matsohms.de-0a0a0a?style=for-the-badge)](https://www.matsohms.de)
-[![Kontakt](https://img.shields.io/badge/Kontakt-anfrage%40matsohms.de-0a0a0a?style=for-the-badge)](mailto:anfrage@matsohms.de)
-[![Berlin](https://img.shields.io/badge/Standort-Berlin-0a0a0a?style=for-the-badge)](#)
+<br/>
+
+[![](https://img.shields.io/badge/www.matsohms.de-1a2444?style=for-the-badge&logoColor=white)](https://www.matsohms.de)&nbsp;&nbsp;[![](https://img.shields.io/badge/service%40matsohms.de-1a2444?style=for-the-badge&logoColor=white)](mailto:service@matsohms.de)&nbsp;&nbsp;[![](https://img.shields.io/badge/Berlin-6b7280?style=for-the-badge&logoColor=white)](#)
 
 </div>
 
----
-
-## Über matsohms IT
-
-matsohms IT ist ein Berliner IT-Unternehmen mit Fokus auf durchdachte, skalierbare Lösungen für kleine und mittelständische Unternehmen. Das Leistungsspektrum reicht von der Konzeption und Entwicklung individueller Softwarelösungen über den Aufbau und Betrieb von Cloud-Infrastruktur bis hin zu Webdesign und laufender IT-Betreuung — alles aus einer Hand.
-
-Im Mittelpunkt steht dabei ein pragmatischer Ansatz: wartbarer Code, datenschutzfreundliche Architekturen und Lösungen, die langfristig tragen.
-
----
-
-## Tech-Stack
-
-**Backend & Datenbanken**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Cloud & Infrastruktur**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
-**Entwicklungsumgebung**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+<br/>
 
 ---
 
 ## Leistungen
 
-| Bereich | Details |
+| | |
 |---|---|
-| Managed Cloud | Planung, Aufbau und Betrieb von Cloud-Infrastruktur — skalierbar, sicher, wartbar |
-| Softwareentwicklung | Individuelle Webanwendungen, REST-APIs, Datenbankdesign |
-| Webdesign | Moderne, responsiv gestaltete Websites — von der Konzeption bis zum Launch |
-| IT-Betreuung | Laufende Betreuung, Support und Optimierung für KMU |
+| **Managed Cloud** | Planung, Aufbau und Betrieb von Cloud-Infrastruktur — skalierbar, sicher, wartbar |
+| **Softwareentwicklung** | Individuelle Webanwendungen, REST-APIs, Datenbankdesign |
+| **Webdesign** | Moderne, responsiv gestaltete Websites — von der Konzeption bis zum Launch |
+| **IT-Betreuung** | Laufende Betreuung, Support und Optimierung für KMU |
+
+---
+
+## Tech-Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1a2444?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a2444?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a2444?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a2444?style=flat-square&logo=linux&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-1a2444?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
 ## Projekte
 
-Repositories folgen in Kürze. Aktuelle Projekte und Referenzen: [matsohms.de](https://www.matsohms.de)
+Repositories folgen in Kürze. Aktuelle Projekte und Referenzen unter [www.matsohms.de](https://www.matsohms.de).
 
 ---
 
@@ -66,23 +51,12 @@ Repositories folgen in Kürze. Aktuelle Projekte und Referenzen: [matsohms.de](h
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matsohms&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matsohms&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matsohms&show_icons=true&hide_border=true&bg_color=f8f9fa&title_color=1a2444&text_color=6b7280&icon_color=1a2444)&nbsp;&nbsp;![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matsohms&layout=compact&hide_border=true&bg_color=f8f9fa&title_color=1a2444&text_color=6b7280)
 
 </div>
 
 ---
 
-## Kontakt
-
-- **Web:** [matsohms.de](https://www.matsohms.de)
-- **Standort:** Berlin, Deutschland
-
----
-
 <div align="center">
-
-<sub>matsohms IT · Berlin · Alles aus einer Hand</sub>
-
+<sub>matsohms IT &nbsp;&middot;&nbsp; Berlin &nbsp;&middot;&nbsp; <a href="https://www.matsohms.de">www.matsohms.de</a> &nbsp;&middot;&nbsp; <a href="mailto:service@matsohms.de">service@matsohms.de</a></sub>
 </div>
